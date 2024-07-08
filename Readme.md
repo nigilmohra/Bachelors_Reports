@@ -1,2 +1,2 @@
-# Bachelors_Simulations
+# Bachelors_Reports
 This repository contains all the reports of the simulations and experiments done by me during my bachelor's (2019-2023) at Amrita Vishwa Vidyapeetham, Coimbatore.
